@@ -1,2 +1,2 @@
-# jquery-1
+# JQuery
 e-mail validation
